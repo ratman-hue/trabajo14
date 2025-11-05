@@ -82,4 +82,4 @@ tenga permisos.
 Código para uso personal/educativo. Si lo vas a usar en producción, revisa licencias y seguridad.
 ---
 ## Autor
-Desarrollador: Eduardo (usuario) 
+Desarrollador: Brandon
